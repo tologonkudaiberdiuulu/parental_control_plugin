@@ -1,0 +1,5 @@
+package com.example.parental_control_plugin_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
